@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-get-random-values</artifactId>
   <versioning>
-    <latest>1.9.0-jitsi-16869188</latest>
-    <release>1.9.0-jitsi-16869188</release>
+    <latest>1.9.0-jitsi-17294538</latest>
+    <release>1.9.0-jitsi-17294538</release>
     <versions>
       <version>1.7.0-jitsi-9223117</version>
       <version>1.7.0-jitsi-9316999</version>
@@ -42,7 +42,8 @@
       <version>1.9.0-jitsi-16784844</version>
       <version>1.9.0-jitsi-16868998</version>
       <version>1.9.0-jitsi-16869188</version>
+      <version>1.9.0-jitsi-17294538</version>
     </versions>
-    <lastUpdated>20240506095126</lastUpdated>
+    <lastUpdated>20240624152308</lastUpdated>
   </versioning>
 </metadata>
